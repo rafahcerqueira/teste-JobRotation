@@ -10,6 +10,8 @@ int main() {
 		soma = soma + k;
 	}
 
+	printf("\n\n\n%d\n\n\n", soma);
+
 	system("PAUSE");
 	return 0;
 }
